@@ -15,3 +15,17 @@
 // console.log(obj); // { name: 'zhangsan', age: 20 }
 
 
+// forEach holo javascript ayer arrya method akbar korey chalye 
+
+// const numbers = [10, 20, 30];
+
+// numbers.forEach((number) => {
+//   console.log(number);
+// });
+
+
+// const name = ["boni","amin","jayed"]
+
+// name.forEach((n, i)=>{
+//     console.log(i,n);
+// })
